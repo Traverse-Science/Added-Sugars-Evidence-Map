@@ -2,4 +2,4 @@
 
 This is a repository containing data from a scoping review on added sugars.
 
-The data are currently in journal submission, come back later when the manuscript is published for updates.
+Article: https://www.mdpi.com/2072-6643/15/23/4974
